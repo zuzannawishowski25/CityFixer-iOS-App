@@ -42,7 +42,7 @@ struct LoginView: View {
             
             UserInput(text: $password,
                       title: "Password",
-                      placeholder: "Enter your password",
+                      placeholder: "password",
                       isSecureField: true)
             
         }
